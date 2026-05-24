@@ -1,0 +1,6 @@
+{
+  "name": "VConfig Pattern Analyzer",
+  "description": "پلتفرم پیشرفته تحلیل، کشف الگو و مهندسی معکوس کانفیگ‌های VPN و پروکسی با هوش مصنوعی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
